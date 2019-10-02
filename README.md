@@ -1,4 +1,4 @@
-# Hacktoberfest 2019
+# Thanks G-Dawg
 Edit to your hearts content.
 
 This repository is dedicated to [G-Dawg](https://github.com/heygillianm).
